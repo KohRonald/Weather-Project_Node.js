@@ -1,0 +1,14 @@
+{
+  "name": "api-weatherproject",
+  "version": "1.0.0",
+  "description": "Weather application with Open Weather API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronald Koh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
